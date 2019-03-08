@@ -1,0 +1,9 @@
+{
+  "Folder": "C:\\temp\\toyota\\",
+  "SubFolder": "archive\\",
+  "Icon": "StatusError",
+  "Minutes_Yellow": 5,
+  "Minutes_Red": 10,
+  "Minutes_Refresh": 1,
+  "LastUpdate": "2019-02-21T16:23:27.9789525-03:00"
+}
